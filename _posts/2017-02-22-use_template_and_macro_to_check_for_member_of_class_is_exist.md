@@ -5,7 +5,7 @@ date: 2017-02-22
 tags: [C++, 模板]
 ---
 
-早在C++03的时候就用模板的方式实现过类成员函数的静态检查；这两天一个小兄弟又问到我同样问题，使用C++11撸了一个通用版本可以检查变量，函数和类型定义，使用GCC和CLANG编译都没问题，但在VS2015上却出现了迷之错误，前后折腾了半天确定应该是其BUG，重新选定方案撸了另一个版本，全平台兼容，[点此下载](/assets/use_template_and_macro_to_check_for_member_of_class_is_exist/has.cpp)。
+在C++03的时候就用模板的方式实现过类成员函数的静态检查；这两天一个小兄弟又问到我同样问题，使用C++11撸了一个通用版本可以检查变量，函数和类型定义，使用GCC和CLANG编译都没问题，但在VS2015上却出现了迷之错误，前后折腾了半天确定应该是其BUG，重新选定方案撸了另一个版本，全平台兼容，[点此下载](/assets/use_template_and_macro_to_check_for_member_of_class_is_exist/has.cpp)。
 
 ### 需求 ###
 
