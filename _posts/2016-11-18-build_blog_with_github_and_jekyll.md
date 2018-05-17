@@ -4,8 +4,7 @@ title: 使用GitHub Pages+Jekyll搭建个人博客
 date: 2018-03-11
 tags: [Jekyll, GitHub, 教程]
 ---
-周末
-折腾了大概两个半天加一个晚上，基于[GitHub Pages](https://pages.github.com){:target="_blank"} + Jekyll([EN](https://jekyllrb.com "英文官网"){:target="_blank"},[CN](http://jekyll.com.cn "中文站点"){:target="_blank"})的个人博客站点终于上线了，本文将中间过程记录整理后，作为本站的第一篇文章发布出来，希望对您有所帮助。[`转载请标明出处，谢谢`]({{page.url}} "使用GitHub+Jekyll搭建个人博客")
+周末折腾了大概两个半天加一个晚上，基于[GitHub Pages](https://pages.github.com){:target="_blank"} + Jekyll([EN](https://jekyllrb.com "英文官网"){:target="_blank"},[CN](http://jekyll.com.cn "中文站点"){:target="_blank"})的个人博客站点终于上线了，本文将中间过程记录整理后，作为本站的第一篇文章发布出来，希望对您有所帮助。[`转载请标明出处，谢谢`]({{page.url}} "使用GitHub+Jekyll搭建个人博客")
 
 ### 概述 ###
 
