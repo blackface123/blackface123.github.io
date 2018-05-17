@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 17 May 2018 01:18:24 +0800</pubDate>
-    <lastBuildDate>Thu, 17 May 2018 01:18:24 +0800</lastBuildDate>
+    <pubDate>Fri, 18 May 2018 01:08:02 +0800</pubDate>
+    <lastBuildDate>Fri, 18 May 2018 01:08:02 +0800</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -69,7 +69,7 @@ At the bottom click the “ADD” button and make another Type “A” row with 
         <title>Hello World</title>
         <description>&lt;p&gt;这几天有兴致研究了一些东西想更新下博客，但发现Jekyll不能运行，把过程中踩到的一些坑记录下，以便他人：&lt;/p&gt;
 
-&lt;p&gt;首先提示版本错误：&lt;/p&gt;
+&lt;p&gt;提示版本错误：&lt;/p&gt;
 &lt;blockquote&gt;
   &lt;p&gt;zsh: /usr/local/bin/jekyll: bad interpreter: /System/Library/Frameworks/Ruby.framework/Versions/2.0/usr/bin: no such file or directory&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -96,7 +96,8 @@ At the bottom click the “ADD” button and make another Type “A” row with 
     
       <item>
         <title>使用GitHub Pages+Jekyll搭建个人博客</title>
-        <description>&lt;p&gt;周末折腾了大概两个半天加一个晚上，基于&lt;a href=&quot;https://pages.github.com&quot; target=&quot;_blank&quot;&gt;GitHub Pages&lt;/a&gt; + Jekyll(&lt;a href=&quot;https://jekyllrb.com&quot; title=&quot;英文官网&quot; target=&quot;_blank&quot;&gt;EN&lt;/a&gt;,&lt;a href=&quot;http://jekyll.com.cn&quot; title=&quot;中文站点&quot; target=&quot;_blank&quot;&gt;CN&lt;/a&gt;)的个人博客站点终于上线了，本文将中间过程记录整理后，作为本站的第一篇文章发布出来，希望对您有所帮助。&lt;a href=&quot;/2018/03/build_blog_with_github_and_jekyll/&quot; title=&quot;使用GitHub+Jekyll搭建个人博客&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;转载请标明出处，谢谢&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;周末
+折腾了大概两个半天加一个晚上，基于&lt;a href=&quot;https://pages.github.com&quot; target=&quot;_blank&quot;&gt;GitHub Pages&lt;/a&gt; + Jekyll(&lt;a href=&quot;https://jekyllrb.com&quot; title=&quot;英文官网&quot; target=&quot;_blank&quot;&gt;EN&lt;/a&gt;,&lt;a href=&quot;http://jekyll.com.cn&quot; title=&quot;中文站点&quot; target=&quot;_blank&quot;&gt;CN&lt;/a&gt;)的个人博客站点终于上线了，本文将中间过程记录整理后，作为本站的第一篇文章发布出来，希望对您有所帮助。&lt;a href=&quot;/2018/03/build_blog_with_github_and_jekyll/&quot; title=&quot;使用GitHub+Jekyll搭建个人博客&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;转载请标明出处，谢谢&lt;/code&gt;&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;概述&quot;&gt;概述&lt;/h3&gt;
 
@@ -1439,7 +1440,7 @@ for &lt;/span&gt;file &lt;span class=&quot;k&quot;&gt;in&lt;/span&gt; &lt;span c
     
       <item>
         <title>使用模板和宏静态检查类成员是否存在</title>
-        <description>&lt;p&gt;早在C++03的时候就用模板的方式实现过类成员函数的静态检查；这两天一个小兄弟又问到我同样问题，使用C++11撸了一个通用版本可以检查变量，函数和类型定义，使用GCC和CLANG编译都没问题，但在VS2015上却出现了迷之错误，前后折腾了半天确定应该是其BUG，重新选定方案撸了另一个版本，全平台兼容，&lt;a href=&quot;/assets/use_template_and_macro_to_check_for_member_of_class_is_exist/has.cpp&quot;&gt;点此下载&lt;/a&gt;。&lt;/p&gt;
+        <description>&lt;p&gt;在C++03的时候就用模板的方式实现过类成员函数的静态检查；这两天一个小兄弟又问到我同样问题，使用C++11撸了一个通用版本可以检查变量，函数和类型定义，使用GCC和CLANG编译都没问题，但在VS2015上却出现了迷之错误，前后折腾了半天确定应该是其BUG，重新选定方案撸了另一个版本，全平台兼容，&lt;a href=&quot;/assets/use_template_and_macro_to_check_for_member_of_class_is_exist/has.cpp&quot;&gt;点此下载&lt;/a&gt;。&lt;/p&gt;
 
 &lt;h3 id=&quot;需求&quot;&gt;需求&lt;/h3&gt;
 
